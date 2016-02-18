@@ -1,0 +1,6 @@
+Credentials cache: API:157283B2-BF23-4B67-BD2D-4C3CA425D238
+        Principal: glangloi@42.FR
+
+  Issued                Expires               Principal
+Oct 13 12:01:59 2015  Oct 20 12:01:59 2015  krbtgt/42.FR@42.FR
+Oct 13 12:32:32 2015  Oct 20 12:01:59 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
